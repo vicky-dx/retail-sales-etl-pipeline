@@ -8,7 +8,9 @@ It covers:
 - Loading into Amazon Redshift with star schema modeling
 - Business dashboards using Tableau
 
-⚠️ All data and logic in this repo are dummy/synthetic for demonstration purposes only.
+> 📝 Note: This is a **reconstructed** version of a freelance project I worked on.  
+> All datasets and logic have been anonymized/simulated for demonstration.
+
 
 ## 🛠 Tech Stack
 - AWS S3, AWS Glue, Redshift, Airflow (Dockerized)
